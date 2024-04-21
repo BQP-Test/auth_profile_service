@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+databases[sqlite]
+pyjwt
+python-multipart
+requests
